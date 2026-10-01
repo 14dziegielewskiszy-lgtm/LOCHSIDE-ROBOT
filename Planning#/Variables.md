@@ -5,7 +5,7 @@
 | Core Hex Motor | `REV-41-1300`|
 | SRS Programmer | `REV-31-1108`| 
 | Smart Robot Servo V2 | `REV-41-3334`| 
-
+| USB Gamepad |`REV-31-2983`|
 
 
 Electronic Plan
